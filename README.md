@@ -1,2 +1,2 @@
 # Prodjects
-look at the diffrent branch to find the code
+space invaders need python 3 and pygame
